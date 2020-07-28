@@ -1,4 +1,17 @@
-### Hi there 👋
+### Olá! 👋
+
+- 🔭 Atualmente trabalho como analista de sistemas na área de RH.
+
+- 🌱 Estou cursando Sistemas para Internet com ênfase em IOT na UniDomBosco EAD.
+
+- ⚡ Estou aprendendo React Native na Dev Samurai.
+
+- 💬 E-mail para contato é gcarniel@outlook.com
+
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GabrielCarniel)](https://twitter.com/GabrielCarniel)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcarniel)](https://www.linkedin.com/in/gabriel-carniel-1545b929/)
+
 
 <!--
 **gcarniel/gcarniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
