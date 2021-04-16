@@ -2,9 +2,7 @@
 
 - 🔭 Atualmente trabalho como analista de sistemas na área de RH.
 
-- 🌱 Estou cursando Sistemas para Internet com ênfase em IOT na UniDomBosco EAD.
-
-- ⚡ Estou aprendendo React Native na Dev Samurai.
+- ⚡ Estou aprendendo JavaScript para criar aplicações com JS puro.
 
 - 💬 E-mail para contato é gcarniel@outlook.com
 
