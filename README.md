@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho como analista de sistemas na área de RH.
 
-- ⚡ Estou aprendendo JavaScript para criar aplicações com JS puro.
+- ⚡ Estou estudando JavaScript do zero à fluência para criar aplicações com JS puro.
 
 - 💬 E-mail para contato é gcarniel@outlook.com
 
