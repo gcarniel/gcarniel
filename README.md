@@ -4,7 +4,9 @@
 
 - ⚡ Estou estudando JavaScript do zero à fluência para criar aplicações com JS puro.
 
-- 💬 E-mail para contato é gcarniel@outlook.com
+- ☕ Estudo também HTML, CSS, NODE, SQL, GIT e GITHUB.
+
+- 💬 E-mail para contato: gcarniel@outlook.com
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GabrielCarniel)](https://twitter.com/GabrielCarniel)
