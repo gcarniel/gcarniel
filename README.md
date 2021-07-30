@@ -20,16 +20,14 @@
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GabrielCarniel)](https://twitter.com/GabrielCarniel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcarniel)](https://www.linkedin.com/in/gabriel-carniel-1545b929/)
 [![email](https://img.shields.io/badge/E--mail-Outlook-blue)](mailto:gcarniel@outlook.com)
+
   
   ### Conheço essas tecnologias
- 
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  
-
 
 <!--
 **gcarniel/gcarniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
