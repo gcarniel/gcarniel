@@ -1,12 +1,14 @@
-# Olá! Gabriel Carniel aqui!
+# Olá! Gabriel Carniel aqui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"/>
 
-- 🏢 Atualmente trabalho como analista de sistemas na área de RH.
+- 🏢 Atualmente sou dev front-end na Four Pixel IT.
 
-- 💻 Estou estudando JavaScript do zero à fluência para criar aplicações com JS puro.
+- 💻 As tecnologias que utilizo no dia a dia são: NextJS, TailwindCSS, TypeScript e Firebase.
 
-- 📚 Estudo também HTML, CSS, NODE, SQL, GIT e GITHUB.
+- 📚 Estou sempre estudando algo sobre HTML, CSS, JS, TS, NODE, GIT, Next, React ou Firebase.
 
 - 📧 E-mail para contato: gcarniel@outlook.com
+
+-    [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GabrielCarniel)](https://twitter.com/GabrielCarniel)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcarniel)](https://www.linkedin.com/in/gabriel-carniel-1545b929/)    [![email](https://img.shields.io/badge/E--mail-Outlook-blue)](mailto:gcarniel@outlook.com)
 
 <div style="title_color: red"> 
   <a href="https://github.com/gcarniel">
@@ -16,18 +18,17 @@
   
   ##
 
-  ### Encontre-me aqui
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GabrielCarniel)](https://twitter.com/GabrielCarniel)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcarniel)](https://www.linkedin.com/in/gabriel-carniel-1545b929/)
-[![email](https://img.shields.io/badge/E--mail-Outlook-blue)](mailto:gcarniel@outlook.com)
 
   
-  ### Conheço essas tecnologias
-  ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+<!--   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,nodejs,react,nextjs,tailwind,postgres,firebase,linux)](https://skillicons.dev) -->
+  
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,git,nodejs,react,nextjs,tailwind,postgres,firebase,linux" />
+  </a>
+</p>
+  
 
 <!--
 **gcarniel/gcarniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
