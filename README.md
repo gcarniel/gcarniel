@@ -1,10 +1,8 @@
 # Olá! Gabriel Carniel aqui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"/>
 
-- 🏢 Atualmente sou dev front-end na Four Pixel IT.
+- 🏢 Sou desenvolvedor Full-Stack.
 
-- 💻 As tecnologias que utilizo no dia a dia são: NextJS, TailwindCSS, TypeScript e Firebase.
-
-- 📚 Estou sempre estudando algo sobre HTML, CSS, JS, TS, NODE, GIT, Next, React ou Firebase.
+- 💻 As tecnologias mais utilizadas no dia a dia: Next.JS, Node.JS, TS, JS, Firebase.
 
 - 📧 E-mail para contato: gcarniel@outlook.com
 
